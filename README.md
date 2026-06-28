@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Im a self-taught software dev.
-
 <a href="">
   <img height="auto" width="1000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2kzb3ZtdHF3ODFtYmVsZmc5c2tjMWhzOTNxbHg3azZudHpodzg2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 </a>
